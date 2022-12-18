@@ -1,5 +1,5 @@
 <?php
-$html = file_get_contents('path/to/local/file.html');
+$html = file_get_contents('AstroTurfAFCABlast.html');
 echo $html;
 
 ?>
